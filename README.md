@@ -25,7 +25,7 @@
 ---
 #### Мои контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/vooddoov)
-[![Email](https://img.shields.io/badge/-Yurovdigital@gmail.com-141130?style=for-the-badge&logo=Gmail)](mailto:deadshot323rd@yandex.ru)
+[![Email](https://img.shields.io/badge/-deadshot323rd@yandex.ru-141130?style=for-the-badge&logo=Gmail)](mailto:deadshot323rd@yandex.ru)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verdant-yucca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
