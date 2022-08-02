@@ -11,9 +11,7 @@
 #### Умею пользоваться:
 ![GIT](https://img.shields.io/badge/-Git-141130?style=for-the-badge&logo=GIT&logoColor=FFFFFF)
 ![Webpack](https://img.shields.io/badge/-Webpack-141130?style=for-the-badge&logo=Webpack&)
-![EditorConfig](https://img.shields.io/badge/-Editorconfig-141130?style=for-the-badge&logo=Editorconfig)
 ![Figma](https://img.shields.io/badge/-Figma-141130?style=for-the-badge&logo=Figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-141130?style=for-the-badge&logo=AdobePhotoshop)
 
 
 #### Мои проекты:
