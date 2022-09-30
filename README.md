@@ -18,10 +18,16 @@
 
 
 #### Мои проекты:
-
-[![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://github.com/verdant-yucca/how-to-learn)
+[![React-mesto-auth](https://img.shields.io/badge/-React--mesto--auth-141130?style=for-the-badge)](https://github.com/verdant-yucca/react-mesto-auth)
+[![Mesto](https://img.shields.io/badge/-JS--mesto-141130?style=for-the-badge)](https://github.com/verdant-yucca/mesto)
 [![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://github.com/verdant-yucca/russian-travel)
-[![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/verdant-yucca/mesto)
+[![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://github.com/verdant-yucca/how-to-learn)
+
+#### Демки на gh-pages:
+[![React-mesto-auth](https://img.shields.io/badge/-React--mesto--auth-141130?style=for-the-badge)](https://verdant-yucca.github.io/react-mesto-auth/)
+[![Mesto](https://img.shields.io/badge/-JS--mesto-141130?style=for-the-badge)](https://verdant-yucca.github.io/mesto/)
+[![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://verdant-yucca.github.io/russian-travel/)
+[![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://verdant-yucca.github.io/how-to-learn/)
 
 ---
 #### Мои контакты:
