@@ -6,14 +6,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=FF0000)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=009900)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330.svg?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23323330.svg?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![☄Effector](https://img.shields.io/badge/Effector-%2320232a.svg?style=for-the-badge) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-%23323330.svg?style=for-the-badge&logo=Figma)
 
 
