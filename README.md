@@ -3,17 +3,11 @@
 ![](https://komarev.com/ghpvc/?username=verdant-yucca) 
 ---
 #### Мой стек:
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=FF0000)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=009900)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330.svg?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23323330.svg?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![☄Effector](https://img.shields.io/badge/Effector-%2320232a.svg?style=for-the-badge) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Figma](https://img.shields.io/badge/-Figma-%23323330.svg?style=for-the-badge&logo=Figma)
 
 
 #### Мои проекты:
@@ -21,12 +15,14 @@
 [![Mesto](https://img.shields.io/badge/-JS--mesto-141130?style=for-the-badge)](https://github.com/verdant-yucca/mesto)
 [![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://github.com/verdant-yucca/russian-travel)
 [![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://github.com/verdant-yucca/how-to-learn)
+//TODO update
 
 #### Демки на gh-pages:
 [![React-mesto-auth](https://img.shields.io/badge/-React--mesto--auth-141130?style=for-the-badge)](https://verdant-yucca.github.io/react-mesto-auth/)
 [![Mesto](https://img.shields.io/badge/-JS--mesto-141130?style=for-the-badge)](https://verdant-yucca.github.io/mesto/)
 [![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://verdant-yucca.github.io/russian-travel/)
 [![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://verdant-yucca.github.io/how-to-learn/)
+//TODO update
 
 ---
 #### Мои контакты:
