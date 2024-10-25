@@ -12,5 +12,4 @@
 ---
 #### Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/vooddoov)
-[![Email](https://img.shields.io/badge/-deadshot323rd@yandex.ru-141130?style=for-the-badge&logo=Gmail)](mailto:deadshot323rd@yandex.ru)
 
